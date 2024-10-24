@@ -17,5 +17,5 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLEVER1337&layout=donut&hide=HTML,CSS,JavaScript&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLEVER1337&layout=donut&theme=radical">
 </div>
