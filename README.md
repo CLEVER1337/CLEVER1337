@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CLEVER1337&theme=bear&show_icons=true&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=CLEVER1337&theme=bear&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
 </div>
 
 <br>
