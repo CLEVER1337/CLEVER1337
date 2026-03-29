@@ -11,11 +11,11 @@
 <br>
 
 <div align="center">
-    <img src="https://5a5c0de3.getflow.tech/api?username=clever1337&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=torvalds&layout=compact&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=torvalds&layout=compact&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
+    <img src="https://5a5c0de3.getflow.tech/api/top-langs/?username=clever1337&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&layout=compact">
 </div>
